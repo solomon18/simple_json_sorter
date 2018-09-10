@@ -1,0 +1,12 @@
+body {
+  background-color: #002b36;
+}
+
+pre {background-color: transparent; padding: 5px; margin: 5px; }
+.string { color: #2aa198; }
+.number { color: #d33682; }
+.boolean { color: #b58900; }
+.null { color: #b58900; }
+.key { color: #2aa198; }
+.array { color: #93a1a1; }
+.list { color: #dc322f; }
